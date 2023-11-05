@@ -1,0 +1,53 @@
+.ModelTitle{
+    font-family: Basier Square;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #272343;
+
+}
+.modal_content{
+    padding-top: 20px ;
+}
+.formItem{
+margin-bottom: 35px;
+}
+.submit{
+    background: #FFD803; 
+    outline: none;
+    border: none
+    ;
+    height: 51px;
+    color: #272343;
+    padding: 12px 24px 12px 24px;
+    border-radius: 4px;    
+font-family: Basier Square;
+font-size: 18px;
+font-weight: 500;
+line-height: 27px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.submit_container{
+    margin-top: 30px !important;
+    border-top:1px solid #E3E2E7 ;
+}
+.StarterButton{
+    background-color: transparent;
+    padding: 12px 24px 12px 24px;
+    font-family: Basier Square;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: left;
+    height: 51px;
+    color: #272343;
+    transition: all 0.3s;
+    &:hover {
+        background-color: #f2eae1;
+      }
+}
