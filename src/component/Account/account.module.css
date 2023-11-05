@@ -23,7 +23,10 @@
     color: #272343;
 }
 .table_container{
+  height: 100%;
     padding: 32px;
+    padding-bottom: 60px;
+    overflow-y: auto;
 }
 .content {
   height: calc(100vh - 72px);

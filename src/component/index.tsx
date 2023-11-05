@@ -6,6 +6,7 @@ const Container = styled.div`
     justify-content: space-between;
     align-items: flex-start;
     height: 100%;
+    overflow:hidden;
 
 `;
 const Nav = styled.nav`
